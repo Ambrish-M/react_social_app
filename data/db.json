@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      " id": 1,
+      "title": "My First Post",
+      "datetime": "February 23,2025 2:30 PM",
+      "body": "Made a Video About Today Cricket Match Ind Vs Pak",
+      "id": "d345"
+    },
+    {
+      " id": 2,
+      "title": "My Second Post",
+      "datetime": "February 26,2025 12:00 AM",
+      "body": "My Brother BirthDay on that Day",
+      "id": "06a6"
+    },
+    {
+      "id": "ebc4",
+      "title": "My Third Post",
+      "datetime": "February 28, 2025 1:23:36 PM",
+      "body": "Today Date is a end of february so Say good boy to Feb"
+    },
+    {
+      "id": "ebc41",
+      "title": "Congrats Myself",
+      "datetime": "March 01, 2025 12:25:20 PM",
+      "body": "I am completed react FullCourse"
+    }
+  ]
+}
